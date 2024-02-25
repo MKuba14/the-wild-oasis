@@ -1,3 +1,5 @@
 ## The Wild Osais
 
-Main app in the Ultimate React Course.
+Main project in the Ultimate React Course.
+
+https://animated-narwhal-ae3ee2.netlify.app
