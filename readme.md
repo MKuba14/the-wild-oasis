@@ -1,5 +1,5 @@
 ## The Wild Osais
 
-Main project in the Ultimate React Course.
+Webapp for hotel employees
 
 Link to webapp: https://animated-narwhal-ae3ee2.netlify.app
