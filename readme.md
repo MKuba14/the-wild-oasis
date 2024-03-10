@@ -1,5 +1,10 @@
-## The Wild Osais
+# The Wild Osais
 
-Webapp for hotel employees
+### Web application for hotel employees
 
-Link to webapp: https://animated-narwhal-ae3ee2.netlify.app
+- Data: Supabase
+- Front-end: React + Vite
+- Styling: Styled Components
+- Hosting: Netlify
+
+Link to web application: https://animated-narwhal-ae3ee2.netlify.app
